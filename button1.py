@@ -2,8 +2,8 @@ from tkinter import *
 
 window =Tk()
 
-b1 = Button(window, text="sujin")
-b2 = Button(window, text="60162104")
+b1 = Button(window, text="mina")
+b2 = Button(window, text="88965754")
 b1.grid(row=0, column=0)
 b2.grid(row=1, column=1)
 
